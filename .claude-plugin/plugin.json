@@ -1,0 +1,7 @@
+{
+  "name": "outbound-skills",
+  "version": "1.0.0",
+  "description": "17 B2B outbound skills that teach Claude Code your exact outreach workflow — ICP, personas, value props, copywriting, pipeline and reply-rate analysis — plus a SessionStart hook that auto-loads your outreach brief so you never re-explain your ICP, persona, or value props every session.",
+  "author": { "name": "Olaoluwa Odusanya" },
+  "hooks": "./hooks/hooks.json"
+}

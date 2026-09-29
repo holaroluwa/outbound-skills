@@ -1,0 +1,11 @@
+{
+  "name": "outbound-skills",
+  "owner": { "name": "Olaoluwa Odusanya" },
+  "plugins": [
+    {
+      "name": "outbound-skills",
+      "source": "./",
+      "description": "16 B2B outbound skills for Claude Code plus a SessionStart hook that auto-loads your outreach brief."
+    }
+  ]
+}
